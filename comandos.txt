@@ -1,0 +1,1 @@
+git log é um comando pra verificar os comites
