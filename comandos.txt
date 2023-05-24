@@ -1,1 +1,3 @@
 git log é um comando pra verificar os comites
+
+git status é um ótimo comando
